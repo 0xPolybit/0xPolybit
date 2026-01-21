@@ -17,29 +17,29 @@
 <p align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=PolybitRockzz&show_icons=true&theme=dark&bg_color=161B22&icon_color=4DAAFC"
+    srcset="https://github-readme-stats.vercel.app/api?username=0xPolybit&show_icons=true&theme=dark&bg_color=161B22&icon_color=4DAAFC"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PolybitRockzz&show_icons=true&bg_color=161B22&icon_color=4DAAFC"
+    srcset="https://github-readme-stats.vercel.app/api?username=0xPolybit&show_icons=true&bg_color=161B22&icon_color=4DAAFC"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=PolybitRockzz&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xPolybit&show_icons=true" />
   </picture>
 </p>
 
 <details open> 
   <summary><h2 align="center">📘 My Top Open Source Projects</h2></summary>
   <p align="center">
-    <a href="https://github.com/PolybitRockzz/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=portfolio&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
+    <a href="https://github.com/0xPolybit/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=portfolio&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
     <a href="https://github.com/The-Octran-Group/tenet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Octran-Group&repo=tenet&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="tenet"></a>
-    <a href="https://github.com/PolybitRockzz/coffee-java-ide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=coffee-java-ide&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-java-ide"></a>
-    <a href="https://github.com/PolybitRockzz/downloads-segregator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PolybitRockzz&repo=downloads-segregator&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="downloads-segregator"></a>
-    <a href="https://github.com/PolybitRockzz/jarvis-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=jarvis-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="jarvis-desktop"></a>
-    <a href="https://github.com/PolybitRockzz/checkward-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=checkward-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="checkward-desktop"></a>
+    <a href="https://github.com/0xPolybit/coffee-java-ide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=coffee-java-ide&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-java-ide"></a>
+    <a href="https://github.com/0xPolybit/downloads-segregator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0xPolybit&repo=downloads-segregator&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="downloads-segregator"></a>
+    <a href="https://github.com/0xPolybit/jarvis-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=jarvis-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="jarvis-desktop"></a>
+    <a href="https://github.com/0xPolybit/checkward-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=checkward-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="checkward-desktop"></a>
   </p>
 
-  <p align="center"><a href="https://github.com/PolybitRockzz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
+  <p align="center"><a href="https://github.com/0xPolybit?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
 </details>
 
 <details open>
@@ -68,14 +68,14 @@
     </ul>
     <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PolybitRockzz&langs_count=5&theme=dark&bg_color=161B22&icon_color=4DAAFC&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPolybit&langs_count=5&theme=dark&bg_color=161B22&icon_color=4DAAFC&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PolybitRockzz&langs_count=5&bg_color=161B22&icon_color=4DAAFC&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPolybit&langs_count=5&bg_color=161B22&icon_color=4DAAFC&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolybitRockzz&langs_count=5" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPolybit&langs_count=5" />
     </picture>
   </div>
  </details>
@@ -95,7 +95,7 @@
  </details>
 
 <!--
-**PolybitRockzz/PolybitRockzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xPolybit/0xPolybit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
