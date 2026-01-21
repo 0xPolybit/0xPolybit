@@ -31,11 +31,11 @@
 <details open> 
   <summary><h2 align="center">📘 My Top Open Source Projects</h2></summary>
   <p align="center">
-    <a href="https://github.com/0xPolybit/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=portfolio&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
-    <a href="https://github.com/The-Octran-Group/tenet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Octran-Group&repo=tenet&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="tenet"></a>
+    <a href="https://github.com/0xPolybit/toonbuilder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=portfolio&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="toonbuilder"></a>
+    <a href="https://github.com/The-Octran-Group/oss-auto-clicker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=tenet&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="oss-auto-clicker"></a>
     <a href="https://github.com/0xPolybit/coffee-java-ide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=coffee-java-ide&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-java-ide"></a>
     <a href="https://github.com/0xPolybit/downloads-segregator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0xPolybit&repo=downloads-segregator&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="downloads-segregator"></a>
-    <a href="https://github.com/0xPolybit/jarvis-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=jarvis-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="jarvis-desktop"></a>
+    <a href="https://github.com/0xPolybit/campus-venture-market-access"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=jarvis-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="campus-venture-market-access"></a>
     <a href="https://github.com/0xPolybit/checkward-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=checkward-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="checkward-desktop"></a>
   </p>
 
