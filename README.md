@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/0x_swastikbiswas" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram (@0x_swastikbiswas)"/></a>
+  <a href="https://instagram.com/swastikbiswas1776" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram (@0x_swastikbiswas)"/></a>
   <a href="https://twitter.com/0xSwastikBiswas" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter (@0xSwastikBiswas)"/></a>
-  <a href="https://www.linkedin.com/in/swastikpolybitbiswas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (@swastikpolybitbiswas)"/></a>
+  <a href="https://www.linkedin.com/in/polybit/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (@swastikpolybitbiswas)"/></a>
  </p>
 
 <p align="center">
@@ -35,7 +35,6 @@
     <a href="https://github.com/The-Octran-Group/oss-auto-clicker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=oss-auto-clicker&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="oss-auto-clicker"></a>
     <a href="https://github.com/0xPolybit/coffee-java-ide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=coffee-java-ide&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-java-ide"></a>
     <a href="https://github.com/0xPolybit/downloads-segregator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0xPolybit&repo=downloads-segregator&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="downloads-segregator"></a>
-    <a href="https://github.com/0xPolybit/campus-venture-market-access"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=campus-venture-market-access&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="campus-venture-market-access"></a>
     <a href="https://github.com/0xPolybit/checkward-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=checkward-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="checkward-desktop"></a>
   </p>
 
@@ -82,6 +81,11 @@
  
  <details>
   <summary><h2 align="center">📚 Education & Certifications</h2></summary>
+  <h3 align="center">B.Tech in Computer Science & Engineering</h3>
+  <p align="center">
+    <strong>University:</strong> Kalinga Institute for Industrial Technology</br>
+    <strong>Cumulative GPA:</strong> 8.39/10 or 3.35/4</br>
+  </p>
   <h3 align="center">Indian School Certificate Examinations 2024</h3>
   <p align="center">
     <strong>Total Score:</strong> 90.23%</br>
