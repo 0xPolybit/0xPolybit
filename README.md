@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/swastikbiswas1776" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram (@0x_swastikbiswas)"/></a>
+  <a href="https://instagram.com/swastikbiswas1776" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram (@swastikbiswas1776)"/></a>
   <a href="https://twitter.com/0xSwastikBiswas" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter (@0xSwastikBiswas)"/></a>
-  <a href="https://www.linkedin.com/in/polybit/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (@swastikpolybitbiswas)"/></a>
- </p>
+  <a href="https://www.linkedin.com/in/polybit/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (@polybit)"/></a>
+  <a href="https://codeforces.com/profile/swastikpolybitbiswas" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces (@swastikpolybitbiswas)"/></a>
+</p>
 
 <p align="center">
   <picture>
@@ -31,11 +32,12 @@
 <details open> 
   <summary><h2 align="center">📘 My Top Open Source Projects</h2></summary>
   <p align="center">
-    <a href="https://github.com/0xPolybit/toonbuilder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=portfolio&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="toonbuilder"></a>
-    <a href="https://github.com/The-Octran-Group/oss-auto-clicker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=oss-auto-clicker&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="oss-auto-clicker"></a>
+    <a href="https://github.com/0xPolybit/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=portfolio&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
+    <a href="https://github.com/0xPolybit/oss-auto-clicker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=oss-auto-clicker&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="oss-auto-clicker"></a>
     <a href="https://github.com/0xPolybit/coffee-java-ide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=coffee-java-ide&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-java-ide"></a>
-    <a href="https://github.com/0xPolybit/downloads-segregator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0xPolybit&repo=downloads-segregator&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="downloads-segregator"></a>
-    <a href="https://github.com/0xPolybit/checkward-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=checkward-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="checkward-desktop"></a>
+    <a href="https://github.com/0xPolybit/double-pendulum"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0xPolybit&repo=double-pendulum&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="double-pendulum"></a>
+    <a href="https://github.com/0xPolybit/auto-email-sendr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=auto-email-sendr&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="auto-email-sendr"></a>
+    <a href="https://github.com/0xPolybit/toonbuilder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=toonbuilder&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="toonbuilder"></a>
   </p>
 
   <p align="center"><a href="https://github.com/0xPolybit?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
@@ -77,9 +79,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPolybit&langs_count=5" />
     </picture>
   </div>
- </details>
+</details>
  
- <details>
+<details>
   <summary><h2 align="center">📚 Education & Certifications</h2></summary>
   <h3 align="center">B.Tech in Computer Science & Engineering</h3>
   <p align="center">
@@ -96,7 +98,7 @@
     <strong>Total Score:</strong> 95.4%</br>
     <strong>Streams:</strong> Mathematics, Science (PCB),<br/> English, History & Civics, Geography,<br/> Computer Applications,<br/> 2nd Language</br>
   </p>
- </details>
+</details>
 
 <!--
 **0xPolybit/0xPolybit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
