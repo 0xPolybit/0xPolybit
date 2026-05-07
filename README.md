@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://instagram.com/swastikbiswas1776" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram (@swastikbiswas1776)"/></a>
-  <a href="https://twitter.com/0xSwastikBiswas" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter (@0xSwastikBiswas)"/></a>
+  <a href="https://x.com/0xSwastikBiswas" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter (@0xSwastikBiswas)"/></a>
   <a href="https://www.linkedin.com/in/polybit/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (@polybit)"/></a>
   <a href="https://codeforces.com/profile/swastikpolybitbiswas" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces (@swastikpolybitbiswas)"/></a>
 </p>
