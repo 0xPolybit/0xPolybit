@@ -1,121 +1,54 @@
-<h1 align="center">
-  <a href="https://swastikbiswas.vercel.app/">👋 Hello World! I'm Swastik Biswas 🌎</a>
-</h1>
+<table width="100%">
+<tr>
+<td align="left">
+<strong>Programmer / Entrepreneur.</strong> Building, breaking, and shipping.
+</td>
+<td align="right">
+<a href="https://swastikbiswas.vercel.app/">Portfolio</a> ·
+<a href="https://swastikbiswas.vercel.app/resume.pdf">Resume</a> ·
+<a href="https://www.linkedin.com/in/polybit/">LinkedIn</a> ·
+<a href="https://codeforces.com/profile/swastikpolybitbiswas">Codeforces</a> ·
+<a href="https://leetcode.com/u/swastikbiswas/">LeetCode</a>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <kbd>Programmer</kbd> &nbsp;•&nbsp; <kbd>Entrepreneur</kbd>
+I build **full-stack web applications, AI/ML tools, competitive programming utilities, and open-source software.**
+
+### Open Source, Projects & Experience
+
+- Creator of **[cp-ally-ide](https://github.com/0xPolybit/cp-ally-ide)** — an IDE tailored for competitive programmers
+- Built **[toonbuilder](https://github.com/0xPolybit/toonbuilder)**, **[cp-reminder](https://github.com/0xPolybit/cp-reminder)**, **[auto-email-sendr](https://github.com/0xPolybit/auto-email-sendr)**, and **[isro-bah-2026](https://github.com/0xPolybit/isro-bah-2026)**
+- **AI Intern · Exavalu** *(May 2026 – Jun 2026)* — Developed an automation system using Claude Cowork to evaluate and correct enterprise documents from centralized data stores
+- **AI Intern · Indian Statistical Institute** *(Apr 2026 – Jun 2026)* — Built **[geo-analyzer](https://github.com/0xPolybit/geo-analyzer)**, a web scraper and LLM-powered classification pipeline using vector databases to analyze SEO & GEO strategies
+- **B.Tech in CSE** at Kalinga Institute of Industrial Technology (KIIT) *(GPA: 8.38/10)*
+
+### Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-161B22?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-161B22?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vite-161B22?style=flat&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Flask-161B22?style=flat&logo=flask&logoColor=FFFFFF" alt="Flask" />
+<img src="https://img.shields.io/badge/Django-161B22?style=flat&logo=django&logoColor=092E20" alt="Django" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Firebase-161B22?style=flat&logo=firebase&logoColor=DD2C00" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Scikit_Learn-161B22?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
 </p>
 
 <p align="center">
-  <a href="https://swastikbiswas.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://swastikbiswas.vercel.app/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
-  <br/>
+<img src="https://count.getloli.com/@:0xPolybit" alt="Profile views" />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/polybit/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (@polybit)"/></a>
-  <a href="https://codeforces.com/profile/swastikpolybitbiswas" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces (@swastikpolybitbiswas)"/></a>
-  <a href="https://leetcode.com/u/swastikbiswas/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode (@swastikbiswas)"/></a>
-  <a href="https://www.reddit.com/user/PolybitRockzz/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit (@PolybitRockzz)"/></a>
-</p>
-
-<p align="center">
-  <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=0xPolybit&show_icons=true&theme=dark&bg_color=161B22&icon_color=4DAAFC"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=0xPolybit&show_icons=true&bg_color=161B22&icon_color=4DAAFC"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=0xPolybit&show_icons=true" />
-  </picture>
-</p>
-
-<details open> 
-  <summary><h2 align="center">📘 My Top Open Source Projects</h2></summary>
-  <p align="center">
-    <a href="https://github.com/0xPolybit/cp-ally-ide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=cp-ally-ide&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="cp-ally-ide"></a>
-    <a href="https://github.com/0xPolybit/toonbuilder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=toonbuilder&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="toonbuilder"></a>
-    <a href="https://github.com/0xPolybit/cp-reminder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=cp-reminder&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="cp-reminder"></a>
-    <a href="https://github.com/0xPolybit/auto-email-sendr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=auto-email-sendr&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="auto-email-sendr"></a>
-    <a href="https://github.com/0xPolybit/geo-analyzer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=geo-analyzer&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="geo-analyzer"></a>
-    <a href="https://github.com/0xPolybit/isro-bah-2026"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xPolybit&repo=isro-bah-2026&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="isro-bah-2026"></a>
-  </p>
-
-  <p align="center"><a href="https://github.com/0xPolybit?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
-</details>
-
-<details open>
-  <summary><h2 align="center">🏅 My Best Skills</h2></summary>
-  <div align="center">
-
-  ### Languages
-
-  [![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,html,css,js,ts&theme=dark&perline=8)](https://go-skill-icons.vercel.app)
-
-  ### Frontend
-
-  [![Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite&theme=dark&perline=8)](https://go-skill-icons.vercel.app)
-
-  ### Backend & Databases
-
-  [![Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,flask,django,fastapi,firebase,supabase&theme=dark&perline=8)](https://go-skill-icons.vercel.app)
-
-  ### Cloud, DevOps & Tooling
-
-  [![Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker&theme=dark&perline=8)](https://go-skill-icons.vercel.app)
-
-  ### Machine Learning
-
-  [![Skills](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pytorch,huggingface&theme=dark&perline=8)](https://go-skill-icons.vercel.app)
-
-  </div>
-
-  <br/>
-</details>
-
-<details>
-  <summary><h2>💼 Experience</h2></summary>
-
-**Artificial Intelligence Intern** · Exavalu · Kolkata, WB (Hybrid)
-*May 2026 – Jun 2026*
-
-- Developed an automation system using Claude Cowork to evaluate and correct documents drawn from a centralized data store, improving record accuracy and consistency.
-- Collaborated with the QA team to gather insights and refine correction workflows, streamlining the document review process.
-
-**Artificial Intelligence Intern** · Indian Statistical Institute · Kolkata, WB (Remote)
-*Apr 2026 – Jun 2026*
-
-- Built a GEO Analyzer tool that scrapes business websites and applies LLMs and classifier models to categorize key aspects of the business.
-- Stored classified outputs in a vector database to enable structured retrieval and downstream analysis.
-- Synthesized model outputs into actionable conclusions on SEO and GEO (Generative Engine Optimization) strategy.
-
-</details>
- 
-<details>
-  <summary><h2>📚 Education & Certifications</h2></summary>
-
-| Qualification | Board / University | Score | Details |
-|---|---|---|---|
-| **B.Tech, Computer Science & Engineering** | Kalinga Institute of Industrial Technology (KIIT) | GPA 8.38/10 (3.35/4) | — |
-| **ISC (Class 12) · 2024** | CISCE | 90.23% | Mathematics, Physics, Chemistry, English, Computer Science |
-| **ICSE (Class 10) · 2022** | CISCE | 95.4% | Mathematics, Science (PCB), English, History & Civics, Geography, Computer Applications, 2nd Language |
-
-</details>
-
-<!--
-**0xPolybit/0xPolybit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
